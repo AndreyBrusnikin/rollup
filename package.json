@@ -27,9 +27,9 @@
     "rollup": "^2.33.3",
     "rollup-plugin-esbuild": "^2.5.2",
     "rollup-plugin-livereload": "^2.0.0",
-    "rollup-plugin-postcss": "^3.1.8",
+    "rollup-plugin-postcss": "^4.0.2",
     "rollup-plugin-serve": "^1.1.0",
-    "rollup-plugin-vue": "^5.1.9",
+    "rollup-plugin-vue": "^6.0.0",
     "vue-template-compiler": "^2.6.11"
   },
   "lint-staged": {
